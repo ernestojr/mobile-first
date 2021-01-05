@@ -1,0 +1,16 @@
+.exchange-values-container {
+  display: flex;
+  width: 930px;
+  margin: 0 auto;
+}
+
+.main-features-container__items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  margin: 0 auto;
+}
+
+.main-plans-container__slider {
+  justify-content: center;
+}
